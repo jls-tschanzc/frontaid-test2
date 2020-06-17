@@ -1,0 +1,8 @@
+{
+  ":name": "FrontAid CMS Example Model",
+  ":description": "This is a very basic example of a FrontAid CMS model file. Feel free to update it according to your needs.",
+  "exampleInput": {
+    ":name": "Example Input",
+    ":type": "text"
+  }
+}
