@@ -4,5 +4,14 @@
   "exampleInput": {
     ":name": "Example Input",
     ":type": "text"
-  }
+  },
+    "jobs": {
+    "teaser": {":type": "text"},
+    "posts": {
+      ":items": {
+        "title": {":type": "line"},
+        "description": {":type": "text"}
+      }
+    }
+  },
 }
